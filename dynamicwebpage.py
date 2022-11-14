@@ -5,3 +5,4 @@ import random
 print ("Content-Type: text/plain")
 
 print ("Random value is " + str(random.randint(100000, 999999));)
+print("Random value is 1489")
